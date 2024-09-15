@@ -1,0 +1,32 @@
+.footer h3 {
+  font-style: italic;
+}
+
+.nav {
+  background: #e6001a;
+}
+.nav ul li {
+  list-style: none;
+}
+.nav a {
+  text-decoration: none;
+  font-size: 30px;
+  color: rgb(82, 163, 50);
+}
+.nav a:hover {
+  color: royalblue;
+}
+
+.banner h1 {
+  color: orange;
+  font-size: 30px;
+  background-color: rgb(82, 163, 50);
+  text-align: center;
+}
+
+.banner h1:hover {
+  color: royalblue;
+  background: orange;
+}
+
+/*# sourceMappingURL=main.css.map */
